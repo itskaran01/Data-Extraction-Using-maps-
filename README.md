@@ -22,7 +22,7 @@ pip install requests
 From the folder containing the script:
 
 ```powershell
-python .\studio_osm.py
+python .\map_extraxt.py
 ```
 
 The script creates:
